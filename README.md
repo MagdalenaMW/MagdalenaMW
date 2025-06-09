@@ -6,5 +6,5 @@ Welcome to my portfolio, where I present my projects.
 
 👋🏻 Connect with Me
   - [GitHub](https://github.com/MagdalenaMW)
-  - [LinkedIn](https://www.linkedin.com/in/magdalena-marsza%C5%82ek-wasilewska/)
+  - [LinkedIn](https://www.linkedin.com/in/magdalena-marszalek-wasilewska/?locale=en_US)
   - [Tabelau Public](https://public.tableau.com/app/profile/magdalena.mw/vizzes)
